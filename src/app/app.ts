@@ -94,5 +94,20 @@ export class App {
       path: '/dev',
       title: 'Dev Stuff',
     },
+    {
+      icon: 'lucideLink',
+      path: '/links',
+      title: 'Links',
+    },
+    {
+      path: '/counting',
+      title: 'Counting',
+      icon: 'lucideBook',
+    },
+    {
+      path: '/demos',
+      title: 'Canned Demos',
+      icon: 'lucideBook',
+    },
   ]);
 }
